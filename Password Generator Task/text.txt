@@ -1,0 +1,7 @@
+Password Generator
+--To get user input of password type(Strong/Weak)
+--if input as Weak randomly generate a password and display it
+--if input as Strong to ask how many letter you need
+--read a input how many digits you need
+--read a input how many symbols or punctuation you need
+--finally generated a strong password and display it
